@@ -13,12 +13,14 @@
 
 <!-- ### :supervillain_man: Обо мне : -->
 
-<!-- [<img src="./svg/linkedin.svg" width="48px" height="48px">](https:)
-[<img src="./svg/telegram.svg" width="48px" height="48px">](https://t.me/wsadfg)
-[<img src="./svg/yandex-international-svgrepo-com.svg" width="48px" height="48px">](mailto:kaygorodcevg@gmail.com) -->
+
 
 ### Контакты:
-<div id="badges" >
+[<img src="./svg/linkedin.svg" width="48px" height="48px">](https:)
+[<img src="./svg/telegram.svg" width="48px" height="48px">](https://t.me/wsadfg)
+[<img src="./svg/icons8-gmail.svg" width="48px" height="48px">](mailto:kaygorodcevg@gmail.com)
+
+<!-- <div id="badges" >
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,7 +30,7 @@
   <a href="t.me/wsadfg">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
+</div> -->
 
 ---
 
