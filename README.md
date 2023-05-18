@@ -1,21 +1,37 @@
-
-# ✌ Привет, меня зовут Глеб!
-<!-- <div id="header" align="center" width="100" height="100">
-  <img src="https://media.giphy.com/media/Ibsw0PowWxgpmvxxUY/giphy.gif" width="100"/>
-</div> -->
-Нахожусь в поисках интересной работы на должность Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-
-<!-- <h1 >
-  Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> -->
+<!-- <div id="header" align="center" width="50" height="50">
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/>
+</div>
+ -->
+# Hi, I'm Gleb :hugs: 
+<!-- Нахожусь в поисках интересной работы на должность Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
+<!-- 
+<img src="https://komarev.com/ghpvc/?username=Kaygorodcevg&style=flat-square&color=blue" alt=""/> -->
 
 <!-- ### :supervillain_man: Обо мне : -->
+- Frontend developer.
+- Looking for new experiences.
+- I want to make people's lives better.
 
+---
 
+### :hammer_and_wrench: Languages and Tools:
 
-### Контакты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+</div>
+
+---
+
+### Contacts:
+
 [<img src="./svg/linkedin.svg" width="48px" height="48px">](https:)
 [<img src="./svg/telegram.svg" width="48px" height="48px">](https://t.me/wsadfg)
 [<img src="./svg/icons8-gmail.svg" width="48px" height="48px">](mailto:kaygorodcevg@gmail.com)
@@ -34,24 +50,11 @@
 
 ---
 
-### :hammer_and_wrench: Стек технологий:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="React" alt="TypeScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="NodeJS" alt="Express" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
-</div>
+### :chart_with_upwards_trend: Github Stats:
 
----
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg)](https://git.io/streak-stats)
 
-### :chart_with_upwards_trend: Статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaygorodcevg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaygorodcevg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
