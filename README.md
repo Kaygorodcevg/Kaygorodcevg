@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/>
 </div>
  -->
-# Hi, I'm Gleb :hugs: 
+### Hi, I'm Gleb :hugs: 
 <!-- Нахожусь в поисках интересной работы на должность Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Kaygorodcevg&style=flat-square&color=blue" alt=""/> -->
@@ -14,7 +14,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -32,9 +32,9 @@
 
 ### Contacts:
 
-[<img src="./svg/linkedin.svg" width="48px" height="48px">](https:)
-[<img src="./svg/telegram.svg" width="48px" height="48px">](https://t.me/wsadfg)
-[<img src="./svg/icons8-gmail.svg" width="48px" height="48px">](mailto:kaygorodcevg@gmail.com)
+[<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/wsadfg)
+[<img src="./svg/icons8-gmail.svg" width="50px" height="50px">](mailto:kaygorodcevg@gmail.com)
+[<img src="./svg/linkedin.svg" width="50px" height="50px">](https:)
 
 <!-- <div id="badges" >
   <a href="your-linkedin-URL">
