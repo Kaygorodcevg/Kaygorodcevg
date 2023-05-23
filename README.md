@@ -34,7 +34,7 @@
 
 [<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/wsadfg)
 [<img src="./svg/icons8-gmail.svg" width="50px" height="50px">](mailto:kaygorodcevg@gmail.com)
-[<img src="./svg/linkedin.svg" width="50px" height="50px">](https:)
+[<img src="./svg/linkedin.svg" width="50px" height="50px">](https://www.linkedin.com/mwlite/in/gleb-kaygorodtsev-a4b148274)
 
 <!-- <div id="badges" >
   <a href="your-linkedin-URL">
