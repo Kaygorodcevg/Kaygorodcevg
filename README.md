@@ -39,7 +39,8 @@
 
 ### :chart_with_upwards_trend: Github Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kaygorodcevg&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaygorodcevg&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
