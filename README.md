@@ -1,16 +1,15 @@
-<!-- <div id="header" align="center" width="50" height="50">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/>
-</div>
- -->
-### Hi, I'm Gleb :hugs: 
+### Привет, меня зовут Глеб :hugs: 
 <!-- Нахожусь в поисках интересной работы на должность Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Kaygorodcevg&style=flat-square&color=blue" alt=""/> -->
 
 <!-- ### :supervillain_man: Обо мне : -->
-- Frontend developer.
+<!-- - Frontend developer.
 - Looking for new experiences.
-- I want to make people's lives better.
+- I want to make people's lives better. -->
+- Frontend разработчик.
+- Всегда стремлюсь к новому.
+- Хочу делать жизнь людей лучше!
 
 ---
 
@@ -35,18 +34,6 @@
 [<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/wsadfg)
 [<img src="./svg/icons8-gmail.svg" width="50px" height="50px">](mailto:kaygorodcevg@gmail.com)
 [<img src="./svg/linkedin.svg" width="50px" height="50px">](https://www.linkedin.com/mwlite/in/gleb-kaygorodtsev-a4b148274)
-
-<!-- <div id="badges" >
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="kaygorodcevg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="t.me/wsadfg">
-    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div> -->
 
 ---
 
