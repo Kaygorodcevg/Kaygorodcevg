@@ -13,7 +13,8 @@
 
 ---
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
+### Мой стек и инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -29,7 +30,8 @@
 
 ---
 
-### Contacts:
+<!-- ### Contacts: -->
+### Контакты:
 
 [<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/wsadfg)
 [<img src="./svg/icons8-gmail.svg" width="50px" height="50px">](mailto:kaygorodcevg@gmail.com)
@@ -37,7 +39,8 @@
 
 ---
 
-### :chart_with_upwards_trend: Github Stats:
+<!-- ### :chart_with_upwards_trend: Github Stats: -->
+### Моя статистика:
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kaygorodcevg&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
