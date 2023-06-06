@@ -4,7 +4,7 @@
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Kaygorodcevg&style=flat-square&color=blue" alt=""/> -->
 
-### 🌵: About :
+### 🌵 About :
 <!-- ### :supervillain_man: Обо мне : -->
 - Frontend developer
 - Looking for new experience
