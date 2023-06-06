@@ -1,20 +1,22 @@
-### Привет, меня зовут Глеб :hugs: 
+<!-- ### Привет, меня зовут Глеб :hugs:  -->
+### Hi, I'm Gleb :hugs: 
 <!-- Нахожусь в поисках интересной работы на должность Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Kaygorodcevg&style=flat-square&color=blue" alt=""/> -->
 
+### 🌵: About :
 <!-- ### :supervillain_man: Обо мне : -->
-<!-- - Frontend developer.
-- Looking for new experiences.
-- I want to make people's lives better. -->
-- Frontend разработчик.
+- Frontend developer
+- Looking for new experience
+<!-- - I want to make people's lives better. -->
+<!-- - Frontend разработчик.
 - Всегда стремлюсь к новому.
-- Хочу делать жизнь людей лучше!
+- Хочу делать жизнь людей лучше! -->
 
 ---
 
-<!-- ### Languages and Tools: -->
-### Мой стек и инструменты:
+### Languages and Tools:
+<!-- ### Мой стек и инструменты: -->
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
@@ -30,8 +32,8 @@
 
 ---
 
-<!-- ### Contacts: -->
-### Контакты:
+### Contacts:
+<!-- ### Контакты: -->
 
 [<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/wsadfg)
 [<img src="./svg/icons8-gmail.svg" width="50px" height="50px">](mailto:kaygorodcevg@gmail.com)
@@ -39,11 +41,11 @@
 
 ---
 
-<!-- ### :chart_with_upwards_trend: Github Stats: -->
-### Моя статистика:
+### :chart_with_upwards_trend: Github Stats:
+<!-- ### Моя статистика: -->
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kaygorodcevg&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaygorodcevg&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Kaygorodcevg&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaygorodcevg&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
